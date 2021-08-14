@@ -4,7 +4,7 @@ export class Home extends Component {
     render(){
         return(
             <div>
-                Pagina Home
+                VISTA INICIAL DEL PROYECTO " RIOJAN BARS"
             </div>
         )
     }
