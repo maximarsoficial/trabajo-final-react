@@ -31,8 +31,8 @@ export const NavBar = () => (
           </Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="/addbars">
-            Cargar Bares
+          <Link className="nav-link" to="/homebarslist">
+            MOSTRAR BARES
           </Link>
         </li>
       </ul>
